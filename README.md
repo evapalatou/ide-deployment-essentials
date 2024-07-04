@@ -1,2 +1,2 @@
-# ide-deployment-essentials
+# IDE and Deployment Essentials
 Git, Github
